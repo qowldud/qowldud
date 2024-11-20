@@ -1,13 +1,15 @@
 <div align="center">
 
   <div align="center">
-  <span>
+  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=qowldud&show_icons=true&theme=monokai" alt="GitHub Stats" />
-  </span>
-  <span>
+  </div>
+  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qowldud&layout=compact" alt="Top Languages" />
-  </span>
+  </div>
 </div>
+
+<br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
