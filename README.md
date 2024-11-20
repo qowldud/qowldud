@@ -1,7 +1,4 @@
 <div align="center">
-  
-  <span>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qowldud&show_icons=true&theme=monokai)</span>
-
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
@@ -35,6 +32,14 @@
 
 <br>
 
-  <span>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qowldud&layout=compact)</span>
+<div align="center">
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=qowldud&show_icons=true&theme=monokai" alt="GitHub Stats" />
+  </span>
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qowldud&layout=compact" alt="Top Languages" />
+  </span>
+</div>
+
 </div>
 
