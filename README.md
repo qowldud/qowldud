@@ -2,10 +2,10 @@
 
   <div align="center">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=qowldud&show_icons=true&theme=monokai" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qowldud&layout=compact" alt="Top Languages" />
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qowldud&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=qowldud&show_icons=true&theme=monokai" alt="GitHub Stats" />
   </div>
 </div>
 
