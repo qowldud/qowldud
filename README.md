@@ -1,12 +1,7 @@
 <div align="center">
 
   <div align="center">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qowldud&layout=compact" alt="Top Languages" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=qowldud&show_icons=true&theme=monokai" alt="GitHub Stats" />
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JI%20YOUNG" />
 </div>
 
 <br>
