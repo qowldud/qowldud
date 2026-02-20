@@ -3,7 +3,7 @@
   <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JI%20YOUNG" />
 </div>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi Welcom, I'm Jiyoung Bae </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi, Welcome! I'm Jiyoung Bae </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 저는 꾸준히 성장해 나가는 프론트엔드 개발자입니다. </div> 
     </div>
     <div align= "center">
